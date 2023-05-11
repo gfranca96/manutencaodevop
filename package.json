@@ -1,0 +1,25 @@
+{
+  "name": "manutencaodevop",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfranca96/manutencaodevop.git"
+  },
+  "keywords": [
+    "devops"
+  ],
+  "author": "Guilherme França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfranca96/manutencaodevop/issues"
+  },
+  "homepage": "https://github.com/gfranca96/manutencaodevop#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
